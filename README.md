@@ -84,3 +84,8 @@ The script generates:
     Summary tables of found vulnerabilities
     Links to generated artifacts
 
+    ## Si te ha gustado esta tool apóyame para que pueda seguir desarrollando nuevas herramientas! 
+<a href="https://www.buymeacoffee.com/joelcl2001q" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50">
+</a>
+
